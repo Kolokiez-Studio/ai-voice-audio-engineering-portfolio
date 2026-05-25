@@ -1,11 +1,26 @@
 # AI Voice & Audio Engineering Portfolio
 
-Hi, I’m Lukas sebastian Kolodynski, an audio engineer and studio owner based in Berlin.  
-I run [Kolokiez Studio](https://kolokiez-studio.de) and trained at the Abbey Road Institute (with distinction).
+Hi, I’m Lukas Sebastian Kolodynski, an audio engineer and studio owner based in Berlin.  
+I run [Kolokiez Studio](https://kolokiez-studio.de) and trained at the Abbey Road Institute, where I graduated with distinction.
 
-My work sits at the intersection of human voice, audio craft, and AI-assisted production: recording, editing, cleaning, shaping and evaluating voice material so that it feels clear, natural, emotionally credible and production-ready.
+My work sits at the intersection of human voice, audio craft and AI-assisted production: recording, editing, cleaning, shaping and evaluating voice material so that it feels clear, natural, emotionally credible and production-ready.
 
 This repository is a concise technical portfolio of how I think and work as an audio engineer in voice-driven production environments.
+
+---
+
+## Relevance to AI Voice Production
+
+This portfolio is especially relevant to workflows involving:
+
+- custom voice creation and refinement
+- customer audio cleanup and preparation
+- dubbing and spoken-word production
+- voice quality evaluation
+- pronunciation, pacing and performance nuance
+- client-facing audio direction
+- translating subjective feedback into concrete voice-design decisions
+- structured audio delivery in time-based production environments
 
 ---
 
@@ -18,16 +33,15 @@ This repository is a concise technical portfolio of how I think and work as an a
 - Timbre, clarity, intelligibility and performance nuance
 - Client-facing audio direction and creative translation
 - Quality control for voice, speech and narration projects
-- DAW-based production workflows for fast, reliable delivery
+- DAW-based and hybrid production workflows for fast, reliable delivery
 
 ---
 
 ## Why This Repository Exists
 
-Most of my work is audio-first rather than code-first.  
-Instead of using GitHub as a software portfolio, I use this repository to document my technical thinking around voice production, audio quality, AI voice workflows and client-ready delivery.
+This repository documents my audio-engineering approach to AI voice production, voice preparation, dubbing-oriented workflows and client-ready delivery.
 
-For voice and AI audio work, the final result depends on much more than pressing “generate”. It depends on source quality, preparation, taste, listening discipline, iteration, and the ability to translate subjective creative feedback into concrete audio decisions.
+For voice and AI audio work, the final result depends on much more than pressing “generate”. It depends on source quality, preparation, taste, listening discipline, iteration and the ability to translate subjective creative feedback into concrete audio decisions.
 
 That is the kind of work I do every day.
 
@@ -92,7 +106,8 @@ I approach AI voice work similarly to a vocal recording session:
 7. Adjust pacing, punctuation, pronunciation, emphasis or source material.
 8. Assemble the best result.
 9. Perform final quality control in context.
- 
+
+The goal is not the most impressive single take.  
 The goal is a reliable, scalable and client-ready result.
 
 ---
@@ -131,7 +146,7 @@ When preparing voice material for voice cloning, dubbing or AI voice production,
 - Is the material over-processed or still usable?
 - Are there enough clean sections for the intended use case?
 - Does the voice remain consistent across takes?
-- Would this source audio help or hurt the final model/output?
+- Would this source audio help or hurt the final model or output?
 
 I prefer solving these problems before production rather than trying to hide them at the end.
 
@@ -142,47 +157,52 @@ I prefer solving these problems before production rather than trying to hide the
 When reviewing voice output, I usually evaluate the following:
 
 | Area | What I listen for |
-
+|---|---|
 | Clarity | Is every word understandable without strain? |
-
 | Timbre | Does the voice retain a coherent sonic identity? |
-
 | Naturalness | Does it sound human, fluid and believable? |
-
 | Articulation | Are consonants, vowels and transitions clean? |
-
 | Emotion | Does the performance match the intended context? |
-
 | Pacing | Are rhythm, pauses and phrasing convincing? |
-
 | Noise | Are there artifacts, distortion, clicks or background issues? |
-
 | Consistency | Does the voice remain stable across the full piece? |
-
 | Context Fit | Does the voice work in the actual scene, product or delivery format? |
 
 ---
 
 ## Tools & Production Environment
 
-I work with professional DAW-based audio workflows and adapt tools to the project rather than forcing one fixed setup.
+I work with professional DAW-based audio workflows, but I also enjoy working in a hybrid production environment that combines digital precision with analog character.
 
-Common areas of work include:
+Depending on the project, I use a combination of:
 
-- recording
-- editing
-- comping
-- cleanup
-- mixing
-- mastering
-- vocal production
-- spoken-word production
-- audio restoration
-- sound design
-- client review and revision workflows
+- DAW-based editing, comping, cleanup and arrangement
+- analog outboard processing
+- mixing desks / analog consoles
+- microphone preamps
+- vocal chains
+- hybrid routing between in-the-box and outboard processing
+- monitoring and critical listening workflows
+- structured revision and delivery workflows
+
+I value the flexibility and speed of digital workflows, especially for editing, revisions and client delivery. At the same time, working with real signal flow, gain staging, outboard dynamics and desks has shaped the way I listen and make production decisions.
+
+For voice and AI audio work, this hybrid background is especially useful: it trains the ear to recognize subtle differences in tone, presence, texture, noise, dynamics and emotional impact.
 
 DAWs and tools:  
-Ableton Live, Pro Tools, Logic Pro, iZotope RX, RipX Pro
+Ableton Live, Pro Tools, Logic Pro, iZotope RX, RipX Pro, analog outboard, mixing desks / analog consoles
+
+---
+
+## Repository Structure
+
+This repository includes practical notes and checklists around voice-oriented audio production:
+
+- [Voice Prep Checklist](docs/voice-prep-checklist.md)
+- [Audio Quality Rubric](docs/audio-quality-rubric.md)
+- [Client Workflow](docs/client-workflow.md)
+
+These documents are designed to show how I approach audio preparation, quality control and client-facing production workflows in a structured and repeatable way.
 
 ---
 
@@ -194,7 +214,7 @@ Representative project types include:
 - vocal recording and production
 - spoken-word editing
 - artist and creator audio production
-- podcast/dialogue cleanup
+- podcast and dialogue cleanup
 - dubbing-oriented voice workflows
 - sound design
 - mix and master delivery
@@ -230,9 +250,11 @@ It is about understanding what the client actually means and turning that into a
 
 ## Personal Motivation
 
-I grew up between German and Polish media cultures, and the difference in dubbing quality was impossible to ignore. In Germany, dubbing often felt cinematic and character-driven. In Poland, it was frequently closer to a single voice reading over the original performance.
+I grew up moving between German and Polish media environments, and the difference in how voice, dubbing and translation were handled was impossible to ignore.
 
-That contrast made me very sensitive to the emotional impact of voice, language and performance. It is one of the reasons I care so much about making voices feel natural, expressive and human.
+As a viewer, I experienced German dubbing as very character-driven and cinematic, while many Polish TV formats I encountered used a more voice-over / lector-style approach. That contrast made me very aware of how much voice, language and performance shape emotional impact.
+
+It is one of the reasons I care so much about making voices feel natural, expressive and human.
 
 AI voice technology can make high-quality voice production more accessible across languages — but only if it is guided by strong audio judgment, ethical awareness and respect for performance.
 
@@ -244,4 +266,4 @@ That is the kind of work I want to contribute to.
 
 Website: [kolokiez-studio.de](https://kolokiez-studio.de)  
 Location: Berlin, Germany  
-Email: L-kolo@gmx.de
+Email: l-kolo@gmx.de
