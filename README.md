@@ -144,13 +144,21 @@ When reviewing voice output, I usually evaluate the following:
 | Area | What I listen for |
 
 | Clarity | Is every word understandable without strain? |
+
 | Timbre | Does the voice retain a coherent sonic identity? |
+
 | Naturalness | Does it sound human, fluid and believable? |
+
 | Articulation | Are consonants, vowels and transitions clean? |
+
 | Emotion | Does the performance match the intended context? |
+
 | Pacing | Are rhythm, pauses and phrasing convincing? |
+
 | Noise | Are there artifacts, distortion, clicks or background issues? |
+
 | Consistency | Does the voice remain stable across the full piece? |
+
 | Context Fit | Does the voice work in the actual scene, product or delivery format? |
 
 ---
