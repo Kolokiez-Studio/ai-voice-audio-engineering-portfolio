@@ -266,4 +266,4 @@ That is the kind of work I want to contribute to.
 
 Website: [kolokiez-studio.de](https://kolokiez-studio.de)  
 Location: Berlin, Germany  
-Email: l-kolo@gmx.de
+
