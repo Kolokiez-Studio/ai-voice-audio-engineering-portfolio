@@ -1,4 +1,4 @@
-# AI Voice & Audio Engineering Portfolio
+# AI Voice & Audio Engineering Workflows
 
 Hi, I’m Lukas Sebastian Kolodynski, an audio engineer and studio owner based in Berlin.  
 I run [Kolokiez Studio](https://kolokiez-studio.de) and trained at the Abbey Road Institute, where I graduated with distinction.
